@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+Currently learning and teaching DevOps best practices with Sparta Global. What an amazing opportunity!
+If you would like more info on what Sparta Global do, or DevOps please reach out.
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
@@ -17,6 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 BADGES FROM: https://github.com/Ileriayo/markdown-badges
 -->
+### Skills and experience
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
