@@ -3,7 +3,7 @@
 Currently learning and teaching DevOps best practices with Sparta Global. What an amazing opportunity!
 If you would like more info on what Sparta Global do, or DevOps please reach out.
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/luke-fairbrass-6104a21aa/))
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 
 
