@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Luke! 👋
 
 Currently learning and teaching DevOps best practices with Sparta Global. What an amazing opportunity!
-If you would like more info on what Sparta Global do, or DevOps please reach out.
+If you would like more info on what Sparta Global do, or DevOps, please reach out. My repos will be used for learning and understanding. Although there may also be the odd project on here when I get time for upskilling.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luke-fairbrass-6104a21aa/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@spartaglobal)
